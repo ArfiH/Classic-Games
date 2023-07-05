@@ -8,6 +8,9 @@ However, if the player uncovers a tile containing a mine, the game ends, and the
 
 Minesweeper offers different difficulty levels, typically defined by the size of the grid and the number of mines hidden within it.
 
+## Minesweeper gameplay:
+![](https://github.com/ArfiH/Classic-Games/blob/main/Minesweeper%20Gameplay.gif)
+
 ## How to play?
 As you run the Minesweeper.cpp file. You will be presented 3 difficulty options. Press 1 to play easy level.
 The game will present you with a rectangular grid of tiles. Each tile represents a hidden cell in the minefield.
@@ -25,3 +28,4 @@ If you accidentally click on a tile that contains a mine, the game ends, and you
 
 The game offers different difficulty levels, allowing you to choose the size of the grid and the number of mines hidden within it. Beginners often start with smaller grids and fewer mines to get familiar with the gameplay.
 Remember, Minesweeper requires careful deduction and logical reasoning. Take your time, analyze the numbers, and make strategic moves to successfully clear the minefield.
+
