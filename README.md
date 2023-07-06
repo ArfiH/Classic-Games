@@ -1,5 +1,3 @@
-# Classic-Games
-
 **Minesweeper** is a popular puzzle video game that has been around since the early 1990s. It is a single-player game that typically comes pre-installed on many Windows operating systems.
 
 The player can use logic and deduction to determine the locations of the mines based on the numbers revealed. By carefully analyzing the numbers, the player can mark the tiles suspected to contain mines with flags to avoid accidentally detonating them.
